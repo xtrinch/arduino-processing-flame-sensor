@@ -13,7 +13,7 @@ are then displayed with graphical interface made with Processing.
 
 # Results
 
-![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/arduino-processing-flame-sensor/result.jpg)
-![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/arduino-processing-flame-sensor/result1.jpg)
+![](https://github.com/xtrinch/arduino-processing-flame-sensor/blob/master/result.jpg)
+![](https://github.com/xtrinch/arduino-processing-flame-sensor/blob/master/result1.jpg)
 
 
