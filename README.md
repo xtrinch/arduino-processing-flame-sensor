@@ -3,7 +3,7 @@
 ## About
 
 Flame detection with far-infrared flame sensor module with digital & analog output. Values (digital & analog) 
-are then displayed with graphical interface made with Processing.
+are then displayed on PC with graphical interface made with Processing.
 
 ## Components
 
